@@ -1,2 +1,2 @@
 # Human-Stress-Detector
-Artificial Intellegence using Naive Bayes Classification
+Artificial Intelligence using Decision Tree Classifier
